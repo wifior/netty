@@ -1,19 +1,21 @@
 # Netty Project
 
 Netty is an asynchronous event-driven network application framework for rapid development of maintainable high performance protocol servers & clients.
-
+Netty 是一个异步事件驱动的网络应用框架,用于快速开发可维护的高性能协议服务端&客户端.
 ## Links
 
-* [Web Site](https://netty.io/)
-* [Downloads](https://netty.io/downloads.html)
-* [Documentation](https://netty.io/wiki/)
-* [@netty_project](https://twitter.com/netty_project)
+* [Web Site](https://netty.io/) 网站
+* [Downloads](https://netty.io/downloads.html) 下载
+* [Documentation](https://netty.io/wiki/)  文档
+* [@netty_project](https://twitter.com/netty_project)  netty 项目
 
-## How to build
+## How to build 如何构建
 
 For the detailed information about building and developing Netty, please visit [the developer guide](https://netty.io/wiki/developer-guide.html).  This page only gives very basic information.
+关于构建和开发Netty更详细的信息,请浏览开发指南.这页仅仅给出非常基础的信息.
 
 You require the following to build Netty:
+你需要以下内容来构建Netty:
 
 * Latest stable [Oracle JDK 7](http://www.oracle.com/technetwork/java/)
 * Latest stable [Apache Maven](http://maven.apache.org/)
